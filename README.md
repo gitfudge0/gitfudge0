@@ -1,38 +1,24 @@
-<div align="center">
+# Digvijay Mahapatra
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Digvijay+%F0%9F%91%8B;Procrastinating+into+production;arch+%2B+hyprland+(yes,+btw)&font=Fira+Code&size=26&color=2F81F7&center=true&width=600&height=50" alt="typing" />
+Software engineer. I build fast, keyboard-first developer tools and AI automation —
+turning rough ideas into shipped products.
 
-Software engineer who turns rough ideas into shipped products.<br>
-Fast dev tools, AI automation, keyboard-first UX.
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahapatra.digvijay@gmail.com)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gitfudge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CHANGE_ME)
 
-![Open to work](https://img.shields.io/badge/Open_to_work-3fb950?style=for-the-badge)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahapatra.digvijay@gmail.com)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gitfudge)
+### Tech
 
-</div>
+![skills](https://skillicons.dev/icons?i=rust,go,typescript,kotlin,lua,bash,neovim,linux,react,docker)
 
-### 🧰 Tech
+### Selected work
 
-<div align="center">
+<a href="https://github.com/gitfudge0/brim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=brim&theme=github_dark&hide_border=true" alt="brim" height="120" /></a>
+<a href="https://github.com/gitfudge0/broc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=broc&theme=github_dark&hide_border=true" alt="broc" height="120" /></a>
+<a href="https://github.com/gitfudge0/walt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=walt&theme=github_dark&hide_border=true" alt="walt" height="120" /></a>
+<a href="https://github.com/gitfudge0/innu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=innu&theme=github_dark&hide_border=true" alt="innu" height="120" /></a>
 
-![skills](https://skillicons.dev/icons?i=rust,go,typescript,kotlin,lua,bash,neovim,arch,tmux,linux,react,docker)
+### Stats
 
-</div>
-
-```sh
-$ whoami → digvijay · builder of fast, keyboard-first dev tools · shipping since 2016
-$ ls ~/ships --recent → brim/  broc/  walt/  innu/  arch-dots/
-```
-
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfudge0&layout=compact&theme=github_dark&hide_border=true" alt="langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitfudge0&theme=dark&hide_border=true&background=0D1117" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitfudge0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=d29922" alt="activity" />
-
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfudge0&layout=compact&theme=github_dark&hide_border=true" alt="langs" />
