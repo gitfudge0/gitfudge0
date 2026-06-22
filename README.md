@@ -16,7 +16,7 @@ latency, keyboard-first UX, and tools that get out of your way.
 | | |
 |---|---|
 | **[walt](https://github.com/gitfudge0/walt)** &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation. | **[innu](https://github.com/gitfudge0/innu)** &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop. |
-| **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin</sub><br>&nbsp; | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin</sub><br>&nbsp; |
+| **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Native Android tool for cleaning up a local music library — metadata, lyrics, artwork. | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client for Android — manage torrents and cast streams to your TV. |
 | **[brim](https://github.com/gitfudge0/brim)** &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude & Copilot from one terminal dashboard. | **[arch-dots](https://github.com/gitfudge0/arch-dots)** &nbsp;·&nbsp; <sub>shell</sub><br>I use arch btw — my desktop, dotfiled. |
 
 ### Stats
