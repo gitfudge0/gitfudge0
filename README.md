@@ -13,12 +13,20 @@ turning rough ideas into shipped products.
 
 ### Selected work
 
-<a href="https://github.com/gitfudge0/walt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=walt&theme=github_dark&hide_border=true" alt="walt" height="120" /></a>
-<a href="https://github.com/gitfudge0/innu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=innu&theme=github_dark&hide_border=true" alt="innu" height="120" /></a>
-<a href="https://github.com/gitfudge0/audora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=audora&theme=github_dark&hide_border=true" alt="audora" height="120" /></a>
-<a href="https://github.com/gitfudge0/debbie-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=debbie-android&theme=github_dark&hide_border=true" alt="debbie-android" height="120" /></a>
-<a href="https://github.com/gitfudge0/brim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=brim&theme=github_dark&hide_border=true" alt="brim" height="120" /></a>
-<a href="https://github.com/gitfudge0/arch-dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=arch-dots&theme=github_dark&hide_border=true" alt="arch-dots" height="120" /></a>
+<table>
+<tr>
+<td><a href="https://github.com/gitfudge0/walt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=walt&theme=github_dark&hide_border=true" alt="walt" /></a></td>
+<td><a href="https://github.com/gitfudge0/innu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=innu&theme=github_dark&hide_border=true" alt="innu" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/gitfudge0/audora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=audora&theme=github_dark&hide_border=true" alt="audora" /></a></td>
+<td><a href="https://github.com/gitfudge0/debbie-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=debbie-android&theme=github_dark&hide_border=true" alt="debbie-android" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/gitfudge0/brim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=brim&theme=github_dark&hide_border=true" alt="brim" /></a></td>
+<td><a href="https://github.com/gitfudge0/arch-dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=arch-dots&theme=github_dark&hide_border=true" alt="arch-dots" /></a></td>
+</tr>
+</table>
 
 ### Stats
 
