@@ -1,23 +1,18 @@
-# Hi, I'm Digvijay
+<sub>DIGVIJAY MAHAPATRA · GEN-AI & FULLSTACK ENGINEER</sub>
 
-Gen-AI & full-stack engineer. I build fast, keyboard-first developer tools
-and turn rough ideas into shipped products.
+# gitfudge
+
+Procrastinating into production.
 
 [gitfudge.dev](https://gitfudge.dev) · [email](mailto:mahapatra.digvijay@gmail.com) · [x / @gitfudge](https://twitter.com/gitfudge) · [linkedin](https://www.linkedin.com/in/gitfudge)
 
-### Focus
-
-Agentic tooling, terminal apps, and the glue that makes them feel effortless.
-Rust and TypeScript day to day; Arch + Hyprland for the rig. I care about
-latency, keyboard-first UX, and tools that get out of your way.
-
-### Stuff I'm proud of
+### Stuff I'm working on
 
 | | |
 |---|---|
-| **[walt](https://github.com/gitfudge0/walt)** &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation. | **[innu](https://github.com/gitfudge0/innu)** &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop. |
-| **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Native Android tool for cleaning up a local music library — metadata, lyrics, artwork. | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client for Android — manage torrents and cast streams to your TV. |
-| **[brim](https://github.com/gitfudge0/brim)** &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude & Copilot from one terminal dashboard. | **[arch-dots](https://github.com/gitfudge0/arch-dots)** &nbsp;·&nbsp; <sub>shell</sub><br>I use arch btw — my desktop, dotfiled. |
+| **[grove](https://github.com/gitfudge0/grove)** &nbsp;·&nbsp; <sub>rust · desktop</sub><br>Worktree launchpad for AI coding agents, run side by side. | **[walt](https://github.com/gitfudge0/walt)** &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation. |
+| **[brim](https://github.com/gitfudge0/brim)** &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude & Copilot from one terminal dashboard. | **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Clean up a local music library — metadata, lyrics, artwork. |
+| **[innu](https://github.com/gitfudge0/innu)** &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop. | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client — manage torrents and cast streams to your TV. |
 
 ### Stats
 
