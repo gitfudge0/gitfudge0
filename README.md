@@ -1,30 +1,25 @@
-# Digvijay Mahapatra
+# Hi, I'm Digvijay
 
-Software engineer. I build fast, keyboard-first developer tools and AI automation —
-turning rough ideas into shipped products.
+Gen-AI & full-stack engineer. I build fast, keyboard-first developer tools
+and turn rough ideas into shipped products.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahapatra.digvijay@gmail.com)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gitfudge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitfudge)
+[gitfudge.dev](https://gitfudge.dev) · [email](mailto:mahapatra.digvijay@gmail.com) · [x / @gitfudge](https://twitter.com/gitfudge) · [linkedin](https://www.linkedin.com/in/gitfudge)
 
-### Selected work
+### Focus
 
-<table>
-<tr>
-<td><a href="https://github.com/gitfudge0/walt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=walt&theme=github_dark&hide_border=true" alt="walt" /></a></td>
-<td><a href="https://github.com/gitfudge0/innu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=innu&theme=github_dark&hide_border=true" alt="innu" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/gitfudge0/audora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=audora&theme=github_dark&hide_border=true" alt="audora" /></a></td>
-<td><a href="https://github.com/gitfudge0/debbie-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=debbie-android&theme=github_dark&hide_border=true" alt="debbie-android" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/gitfudge0/brim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=brim&theme=github_dark&hide_border=true" alt="brim" /></a></td>
-<td><a href="https://github.com/gitfudge0/arch-dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gitfudge0&repo=arch-dots&theme=github_dark&hide_border=true" alt="arch-dots" /></a></td>
-</tr>
-</table>
+Agentic tooling, terminal apps, and the glue that makes them feel effortless.
+Rust and TypeScript day to day; Arch + Hyprland for the rig. I care about
+latency, keyboard-first UX, and tools that get out of your way.
+
+### Stuff I'm proud of
+
+| | |
+|---|---|
+| **[walt](https://github.com/gitfudge0/walt)** &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation. | **[innu](https://github.com/gitfudge0/innu)** &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop. |
+| **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin</sub><br>&nbsp; | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin</sub><br>&nbsp; |
+| **[brim](https://github.com/gitfudge0/brim)** &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude & Copilot from one terminal dashboard. | **[arch-dots](https://github.com/gitfudge0/arch-dots)** &nbsp;·&nbsp; <sub>shell</sub><br>I use arch btw — my desktop, dotfiled. |
 
 ### Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfudge0&layout=compact&theme=github_dark&hide_border=true" alt="langs" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=cfcfcf&icon_color=8b949e&ring_color=ededed&count_private=true" alt="stats" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfudge0&layout=compact&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=cfcfcf&langs_count=6" alt="langs" />
