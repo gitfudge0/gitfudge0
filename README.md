@@ -7,10 +7,6 @@ turning rough ideas into shipped products.
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gitfudge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitfudge)
 
-### Tech
-
-![skills](https://skillicons.dev/icons?i=rust,go,typescript,kotlin,lua,bash,neovim,linux,react,docker)
-
 ### Selected work
 
 <table>
