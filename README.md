@@ -8,11 +8,20 @@ Procrastinating into production.
 
 ### Stuff I'm working on
 
-| | |
-|---|---|
-| **[grove](https://github.com/gitfudge0/grove)** &nbsp;·&nbsp; <sub>rust · desktop</sub><br>Worktree launchpad for AI coding agents, run side by side. | **[walt](https://github.com/gitfudge0/walt)** &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation. |
-| **[brim](https://github.com/gitfudge0/brim)** &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude & Copilot from one terminal dashboard. | **[audora](https://github.com/gitfudge0/audora)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Clean up a local music library — metadata, lyrics, artwork. |
-| **[innu](https://github.com/gitfudge0/innu)** &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop. | **[debbie-android](https://github.com/gitfudge0/debbie-android)** &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client — manage torrents and cast streams to your TV. |
+<table>
+<tr>
+<td width="50%"><b><a href="https://github.com/gitfudge0/grove">grove</a></b> &nbsp;·&nbsp; <sub>rust · desktop</sub><br>Worktree launchpad for AI coding agents, run side by side.</td>
+<td width="50%"><b><a href="https://github.com/gitfudge0/walt">walt</a></b> &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/gitfudge0/brim">brim</a></b> &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude &amp; Copilot from one terminal dashboard.</td>
+<td><b><a href="https://github.com/gitfudge0/audora">audora</a></b> &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Clean up a local music library — metadata, lyrics, artwork.</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/gitfudge0/innu">innu</a></b> &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop.</td>
+<td><b><a href="https://github.com/gitfudge0/debbie-android">debbie-android</a></b> &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client — manage torrents and cast streams to your TV.</td>
+</tr>
+</table>
 
 ### Stats
 
