@@ -13,7 +13,7 @@
 
 ---
 
-**Right now:** building [**Kakomi**](https://github.com/gitfudge0/kakomi), a local screenshot tool for Chrome and Firefox. Point at an element, frame it, keep it.
+**Right now:** building [**Grove**](https://github.com/gitfudge0/grove), a worktree launchpad for running AI coding agents side by side in embedded sessions.
 
 `Rust` · `Kotlin` · `TypeScript` · `Linux` · `Android` · `AI tooling`
 
