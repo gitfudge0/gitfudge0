@@ -1,29 +1,65 @@
-<sub>DIGVIJAY MAHAPATRA · GEN-AI & FULLSTACK ENGINEER</sub>
+<p align="center">
+  <img src="./assets/header.svg" alt="Digvijay Mahapatra — gitfudge" width="100%" />
+</p>
 
-# gitfudge
+<p align="center">
+  <a href="https://gitfudge.dev"><img src="https://img.shields.io/badge/gitfudge.dev-b8ff5c?style=flat-square&labelColor=151922&color=b8ff5c" alt="Website" /></a>
+  <a href="mailto:mahapatra.digvijay@gmail.com"><img src="https://img.shields.io/badge/email-f5f7fa?style=flat-square&labelColor=151922&color=f5f7fa" alt="Email" /></a>
+  <a href="https://twitter.com/gitfudge"><img src="https://img.shields.io/badge/@gitfudge-aab2c0?style=flat-square&labelColor=151922&color=aab2c0" alt="X / Twitter" /></a>
+  <a href="https://www.linkedin.com/in/gitfudge"><img src="https://img.shields.io/badge/linkedin-aab2c0?style=flat-square&labelColor=151922&color=aab2c0" alt="LinkedIn" /></a>
+</p>
 
-Procrastinating into production.
+I build small, sharp tools for developers and the desktop—usually where **AI agents**, **Rust**, and an unreasonable amount of polish overlap.
 
-[gitfudge.dev](https://gitfudge.dev) · [email](mailto:mahapatra.digvijay@gmail.com) · [x / @gitfudge](https://twitter.com/gitfudge) · [linkedin](https://www.linkedin.com/in/gitfudge)
+Currently exploring local-first software, agentic workflows, and interfaces that stay out of the way.
 
-### Stuff I'm working on
+### Selected builds
 
 <table>
-<tr>
-<td width="50%"><b><a href="https://github.com/gitfudge0/grove">grove</a></b> &nbsp;·&nbsp; <sub>rust · desktop</sub><br>Worktree launchpad for AI coding agents, run side by side.</td>
-<td width="50%"><b><a href="https://github.com/gitfudge0/walt">walt</a></b> &nbsp;·&nbsp; <sub>rust · hyprland</sub><br>Fast terminal wallpaper picker — in-place previews, auto-rotation.</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/gitfudge0/brim">brim</a></b> &nbsp;·&nbsp; <sub>rust · tui</sub><br>Track AI assistant quotas across Codex, Claude &amp; Copilot from one terminal dashboard.</td>
-<td><b><a href="https://github.com/gitfudge0/audora">audora</a></b> &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Clean up a local music library — metadata, lyrics, artwork.</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/gitfudge0/innu">innu</a></b> &nbsp;·&nbsp; <sub>rust · linux</sub><br>Minimal Wi-Fi management utility for the desktop.</td>
-<td><b><a href="https://github.com/gitfudge0/debbie-android">debbie-android</a></b> &nbsp;·&nbsp; <sub>kotlin · android</sub><br>Real-Debrid client — manage torrents and cast streams to your TV.</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/grove">🌿 grove</a></h3>
+      A worktree launchpad for running AI coding agents side by side in embedded sessions.
+      <br><br><code>Rust</code> <code>Desktop</code> <code>AI tooling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/walt">◫ walt</a></h3>
+      A keyboard-first wallpaper picker for Hyprland with instant previews and auto-rotation.
+      <br><br><code>Rust</code> <code>Hyprland</code> <code>TUI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/brim">▰ brim</a></h3>
+      One terminal dashboard for tracking Codex, Claude, and Copilot usage quotas.
+      <br><br><code>Rust</code> <code>TUI</code> <code>Developer tools</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/audora">♫ audora</a></h3>
+      A native Android toolkit for cleaning up music metadata, lyrics, and artwork.
+      <br><br><code>Kotlin</code> <code>Android</code> <code>Local-first</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/innu">⌁ innu</a></h3>
+      Minimal Wi-Fi management for the Linux desktop, built to feel native and fast.
+      <br><br><code>Rust</code> <code>Linux</code> <code>Desktop</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gitfudge0/debbie-android">▶ debbie</a></h3>
+      A Real-Debrid client for managing torrents and casting streams to your TV.
+      <br><br><code>Kotlin</code> <code>Android</code> <code>Media</code>
+    </td>
+  </tr>
 </table>
 
-### Stats
+### The workbench
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=cfcfcf&icon_color=8b949e&ring_color=ededed&count_private=true" alt="stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfudge0&layout=compact&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=cfcfcf&langs_count=6" alt="langs" />
+`Rust` · `Kotlin` · `TypeScript` · `React` · `Node.js` · `Linux` · `Android` · `AI agents`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitfudge0&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&icon_color=b8ff5c&ring_color=b8ff5c&count_private=true" height="150" alt="GitHub stats" />
+</p>
+
+<p align="center"><sub>Build the useful thing. Make it feel good. Ship it.</sub></p>
