@@ -1,5 +1,3 @@
-<h2 align="center">small tools. sharp edges. zero ceremony.</h2>
-
 <p align="center">I build tools because doing things twice feels like a design flaw.</p>
 
 <p align="center">
